@@ -51,7 +51,7 @@ export interface EditorProps {
     mention?: object;
     hashtag?: object;
     textAlignment?: string;
-    readonly?: boolean;
+    readOnly?: boolean;
     tabIndex?: number;
     placeholder?: string;
     ariaLabel?: string;
